@@ -13,7 +13,7 @@ This project was made with the intention of learning and getting familiar with t
 
 ##  Project Overview
 
-**ipmask** command was created with the intention of easily get both your `ipv4` and `subnet mask` easily. For privacy purposes, ip address is not completely shown. <br/>
+**ipmask** command was created with the intention of easily get both your `ipv4` and `subnet mask` easily. For privacy purposes, ip address is not completely shown. <br />
 ![ipmask_cm](https://github.com/TizianaAndreaOrlando/Bash-Scripting/assets/81337862/11e10dd6-a31e-4ad5-966a-a321345979f5)
 
 ## Notes
