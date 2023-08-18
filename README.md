@@ -13,6 +13,6 @@ This project was made with the intention of learning and get familiar with the n
 
 **ipmask** command was created with the intention of easily get both your _ipv4_ and _subnet mask_ easily without the need of typing _ifconfig_ and getting a lot of information that we don't really want to see. For privacy, I won't show my ip address. 
 
-https://github.com/TizianaAndreaOrlando/Bash-Scripting/assets/81337862/e0a67552-1684-42c5-a27d-e958dee9a2aa
 
+![ipmask_com](https://github.com/TizianaAndreaOrlando/Bash-Scripting/assets/81337862/2ba65c50-6b4b-477c-8c84-9b7eaf06f905)
 
