@@ -21,6 +21,6 @@ The following code is made in Bash using vim text editor. As I run a Windows OS 
 
 ## License
 
-This project is under [GNU License] (LICENSE.txt)
+This project is under [GNU License] (https://github.com/TizianaAndreaOrlando/Bash-Scripting/blob/main/LICENSE)
 
 
