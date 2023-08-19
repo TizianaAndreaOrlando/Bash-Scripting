@@ -1,2 +1,2 @@
 *.css linguist-detectable=false
-*.bash linguist-detectable=true
+*.shell linguist-detectable=true
